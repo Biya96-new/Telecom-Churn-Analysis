@@ -83,7 +83,7 @@ The dashboard provides a comprehensive view of churn through:
 ---
 
 ## 📌 Live Dashboard  
-🔗 [Add Power BI Dashboard Link Here]  
+🔗 [(https://app.powerbi.com/view?r=eyJrIjoiOTZkYTE4OWEtYzNmZC00YmE1LTg2MWUtOGNhNGJiYmEzMDJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)]
 
 ---
 
